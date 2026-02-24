@@ -5,3 +5,7 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 ## Notas
 Pueden hacer lo que quieran...
+
+
+### Estamos editando desde GitHub
+Esto es un ejemplo de editar desde GitHub
